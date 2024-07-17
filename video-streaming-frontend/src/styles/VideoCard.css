@@ -1,0 +1,19 @@
+.card {
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.card img {
+    height: 300px;
+    object-fit: cover;
+}
+
+.card-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 14px;
+    color: #555;
+}

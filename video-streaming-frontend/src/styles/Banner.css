@@ -1,0 +1,19 @@
+.banner {
+    background: url('https://via.placeholder.com/1200x400') no-repeat center center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 100px 25px;
+}
+
+.banner h1 {
+    font-size: 48px;
+}
+
+.banner p {
+    font-size: 24px;
+}
+
+.banner .btn-primary {
+    font-size: 20px;
+}
